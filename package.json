@@ -1,6 +1,6 @@
 {
   "name": "robo-freinds",
-  "homepage": "https://bodo79.github.io/roboFreind",
+  "homepage": "https://bodo79.github.io/robofreind",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,8 +15,7 @@
     "redux": "^4.0.5",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
-    "tachyons": "^4.12.0",
-    "typescript": "^4.0.3"
+    "tachyons": "^4.12.0"
   },
   "scripts": {
     "start": "react-scripts start",
